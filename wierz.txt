@@ -1,6 +1,7 @@
 ola boga
 co za trwoga
 nie dostała pieroga
+<<<<<<< HEAD
 a zabrała wroga
 i to nie byle jakiego orka
 i nic to nie dało
@@ -14,3 +15,6 @@ i próbowało
 aż jajo zniosło
 i się do domu odniosło
 >>>>>>> 4356d99 (koniec historii)
+=======
+a zabrała wroga
+>>>>>>> parent of bf043cd (nowa linijka, niej zrymowana)
