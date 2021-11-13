@@ -2,4 +2,8 @@ ola boga
 co za trwoga
 nie dostała pieroga
 a zabrała wroga
+<<<<<<< HEAD
 i to nie byle jakiego orka
+=======
+i nic to nie dało
+>>>>>>> 3nowe3_linijki
