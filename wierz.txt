@@ -4,8 +4,13 @@ nie dostała pieroga
 a zabrała wroga
 i to nie byle jakiego orka
 i nic to nie dało
+<<<<<<< HEAD
 ale ono się nie poddało
 i dalej próbowało
 i to też nic nie dało
 i próbowało
 i próbowało
+=======
+aż jajo zniosło
+i się do domu odniosło
+>>>>>>> nowe-rymy3-v2
